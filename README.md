@@ -1,4 +1,4 @@
-# Programming-for-Everybody-Getting-Started-with-Python-
+# Getting-Started-with-Python
 
 It contains 7 exercises
 
